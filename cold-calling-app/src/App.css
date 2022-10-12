@@ -1,0 +1,40 @@
+.main-area {
+  display: flex;
+  justify-content: space-around;
+}
+
+.student-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.student-list button {
+  padding: 5px;
+  margin-top: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.safe {
+  color: green;
+}
+
+.safe h2 {
+  color: black;
+}
+
+.next-up {
+  font-size: xx-large;
+  color: blue;
+}
+
+.next-up h2 {
+  font-size: 20px;
+  color: black;
+}
+
+button {
+  margin: 5px;
+}

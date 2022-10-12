@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.App div {
+    border: 1px pink solid;
+    text-align: center;
+}
